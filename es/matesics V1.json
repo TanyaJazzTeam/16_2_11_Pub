@@ -1,0 +1,39 @@
+{
+  "PlanetEarth": [
+    {
+      "materic": "Europa",
+      "country": "Bielorrusia",
+      "CityCapital": "Minsk"
+    },
+    {
+      "materic": "Asia",
+      "country": "porcelana",
+      "population": "1.386 mil millones",
+      "CityCapital": "Beijing"
+    },
+    {
+      "materic": "Australia",
+      "country": "Australia",
+      "population": "24,6 millones",
+      "CityCapital": "Canberra"
+    },
+    {
+      "materic": "África",
+      "country": "Egipto",
+      "population": "97,55 millones",
+      "CityCapital": "El Cairo"
+    },
+    {
+      "materic": "Norteamérica",
+      "country": "Estados Unidos",
+      "population": "327,2 millones",
+      "CityCapital": "Washington"
+    },
+    {
+      "materic": "Sudamerica",
+      "country": "Brasil",
+      "population": "209,3 millones",
+      "CityCapital": "Brasilia"
+    }
+  ]
+}

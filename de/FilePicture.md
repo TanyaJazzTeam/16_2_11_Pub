@@ -22,6 +22,8 @@ Dillinger ist ein Cloud-fähiger, mobilfähiger Offline-Speicher mit AngularJS-b
 - Siehe HTML rechts
 - Magie
 
+# 15.11.2021
+
 # true
 
 - Importieren Sie eine HTML-Datei und sehen Sie zu, wie sie auf magische Weise in Markdown konvertiert wird

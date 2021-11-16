@@ -41,8 +41,6 @@ Dieser Text, den Sie hier sehen, ist *tatsächlich* in Markdown geschrieben! Um 
 
 ### falsch
 
-# 16.11.2021
-
 Dillinger verwendet eine Reihe von Open-Source-Projekten, um richtig zu funktionieren:
 
 - [AngularJS] - HTML für Web-Apps verbessert!

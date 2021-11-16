@@ -1,0 +1,91 @@
+{
+  "materics": [
+    {
+      "name": "Europa",
+      "countres": [
+        {
+          "name": "Weißrussland",
+          "capital": "Minsk",
+          "population": "9,5 Millionen",
+          "bool": "falsch"
+        },
+        {
+          "name": "Russland",
+          "capital": "Moskau",
+          "population": "144,5 Millionen",
+          "bool": "wahr"
+        }
+      ]
+    },
+    {
+      "name": "Asien",
+      "countres": [
+        {
+          "name": "China",
+          "capital": "Peking",
+          "population": " 1,386 Milliarden"
+        },
+        {
+          "name": "Japan",
+          "capital": "Tokio",
+          "population": "126,8 Millionen"
+        }
+      ]
+    },
+    {
+      "name": "Australien",
+      "countres": [
+        {
+          "name": "Australien",
+          "capital": "Canberra",
+          "population": "24,6 Millionen"
+        }
+      ]
+    },
+    {
+      "name": "Afrika",
+      "countres": [
+        {
+          "name": "Ägypten",
+          "capital": "Kairo",
+          "population": "97,55 Millionen"
+        },
+        {
+          "name": "Algerien",
+          "capital": "Algerien",
+          "population": "41,32 Millionen"
+        }
+      ]
+    },
+    {
+      "name": "Nordamerika",
+      "countres": [
+        {
+          "name": "Kanada",
+          "capital": "Ottawa",
+          "population": "37,59 Millionen"
+        },
+        {
+          "name": "Vereinigte Staaten von Amerika",
+          "capital": "Washington",
+          "population": "327,2 Millionen"
+        }
+      ]
+    },
+    {
+      "name": "Südamerika",
+      "countres": [
+        {
+          "name": "Brasilien",
+          "capital": "Brasilien",
+          "population": "209,3 Millionen"
+        },
+        {
+          "name": "Chile",
+          "capital": "Santiago",
+          "population": "18,05 Millionen"
+        }
+      ]
+    }
+  ]
+}

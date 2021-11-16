@@ -10,7 +10,6 @@ msgstr "A screenshot showing amp-sidebar."
 msgid "A screenshot showing amp-sidebaopoooo."
 msgstr "A screenshot showing amp-sidebaopoooo."
 
-
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
 msgstr "Ein Website-Screenshot."
